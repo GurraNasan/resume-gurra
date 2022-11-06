@@ -367,6 +367,9 @@ footer {
     margin-bottom: 30px;
 }
 
+/*----------------------------------Map and interests  */
+div #map {min-height: 360px;}
+
 /*----------------------------------Contact form  */
 
 .contact-heading {
